@@ -25,11 +25,11 @@ export default function Hero(props) {
              <div className="row align-items-center">
                  <div className="col-auto pr-5" style={{width: 535}}>
                     <h1 className="font-weight-bold line-height-1 mb-3">
-                        Forget Busy Work, <br />
-                        Start Next Vacation
+                        Find The Best, <br />
+                        Place To Vacation
                     </h1>
                     <p className="mb-4 font-weight-light text-gray-500" style={{lineHeight: "170%", width: '70%'}}>
-                    We provide what you need to enjoy 
+                    We help you in capturing beautiful moments in 
                     your holiday with family. Time to make 
                     another memorable moments.
                     </p>
